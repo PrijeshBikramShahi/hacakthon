@@ -18,7 +18,6 @@ class _ProfilePageState extends State<ProfilePage> {
         body: Column(
           crossAxisAlignment: CrossAxisAlignment.stretch,
           children: [
-            Text("Profile Page"),
             Icon(Icons.account_circle, size: 120, color: Colors.deepOrange),
             Row(
               children: [
