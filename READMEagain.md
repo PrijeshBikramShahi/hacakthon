@@ -1,8 +1,8 @@
-# TrailBuddy
+# TrailBud
 
 ## About
 
-![travelbuddy](pathtologo)
+![travelbuddy](./src/trailBud.png)
  A project that makes traveling convenient.
 
 ## Functionality
